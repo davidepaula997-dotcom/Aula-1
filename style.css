@@ -1,0 +1,60 @@
+ p{
+   font-family: fantasy;
+   background-color: brown;
+   background-position-x: unset;
+ }
+
+ 
+  body{
+    background-image: url(images.jpg);
+  }
+  ol{
+background-color: royalblue;
+width: 120px;
+border-radius: 10px;
+border: 2px solid white;
+  }
+
+  div{background-color: gold;
+    width: 120px;
+    border-radius: 10px;
+    border: 2px solid white;
+   
+  }
+  
+  .titulo{
+    color: brown;
+    
+  }
+  .item{
+    color: brown;
+  }
+
+    
+  .item{
+    text-decoration: underline;
+  }
+
+  .item{
+    font-family: fantasy;
+  }
+  #elemento-Cristão{
+    color: #861111;
+  }
+    
+  div:first-child{
+    color: #a72222;
+  }
+  div:last-child{
+    color: #971919;
+  }
+
+ div:first-child:hover{
+    color: rgb(5, 4, 4);
+    transition: 0.5s;
+ }
+    
+div:hover {
+    width: 150px;
+    transition: 0.5s;
+}
